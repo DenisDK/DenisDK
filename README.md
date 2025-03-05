@@ -1,4 +1,13 @@
-<img src="img/Header.jpg" alt="Profile Banner" width="100%" />
+<style>
+  .banner {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    object-position: center;
+  }
+</style>
+
+<img src="img/Header.jpg" alt="Profile Banner" class="banner"/>
 
 # Hello World! I`m Denis, an Ukrainian Web Developer ✌:
 
