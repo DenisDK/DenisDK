@@ -13,11 +13,14 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=DenisDK&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=DenisDK&theme=dark&hide_border=false)<br/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisDK&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=DenisDK&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <br />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=DenisDK&theme=dark&hide_border=false" />
 </p>
+
 
 ## 🏆 GitHub Trophies
 
