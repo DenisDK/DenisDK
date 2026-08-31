@@ -18,7 +18,7 @@
   <br />
   <img src="https://github-stats-extended.vercel.app/api?username=DenisDK&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
   <br />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=DenisDK&theme=dark&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=DenisDK&theme=dark" alt="GitHub Streak" />
 </p>
 
 
