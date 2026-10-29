@@ -15,8 +15,8 @@
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DenisDK&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-  <br />
-  <img src="https://github-stats-extended.vercel.app/api?username=DenisDK&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <!-- <br />
+  <img src="https://github-stats-extended.vercel.app/api?username=DenisDK&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /> -->
   <br />
   <img src="https://streak-stats.demolab.com?user=DenisDK&theme=dark" alt="GitHub Streak" />
 </p>
