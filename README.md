@@ -8,6 +8,7 @@
 👨‍💻 I'm Front-End developer <br>
 
 ## I haven`t had electricity for 24 hours now, but i still managed to make a commit 
+№ I was able to save a streak of daily commits
 
 # 💻 Tech Stack:
 
